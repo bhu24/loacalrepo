@@ -1,1 +1,2 @@
 This is new LocalRepo. Index
+This is the new feature.
